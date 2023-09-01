@@ -11,17 +11,17 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://yaotoshi.github.io/whitepaper',
+  url: 'https://yaotoshi.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/whitepaper/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'yaotoshi', // Usually your GitHub org/user name.
   projectName: 'whitepaper', // Usually your repo name.
   // deploymentBranch: 'deployment',
-  trailingSlash: false,
+  // trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
